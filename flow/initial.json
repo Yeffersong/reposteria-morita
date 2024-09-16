@@ -1,0 +1,153 @@
+[
+    {
+        "keywords":  [
+            "1",
+            "Pago",
+            "pago",
+            "pagar",
+            "costo"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "2",
+            "recojer",
+            "recojo",
+            "recibir",
+            "recogo",
+            "recoger"
+        ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords":[
+            "Tienda",
+            "tienda",
+            "local",
+            "residencia",
+            "presencial",
+            "en persona",
+            "voy",
+            "en el lugar",
+            "en el sitio"
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords":[
+            "delivery",
+            "Delivery",
+            "deli",
+            "envío",
+            "traer",
+            "traer acá",
+            "aquí",
+            "para casa",
+            "para mi casa",
+            "para la casa"
+        ],
+        "key": "STEP_4"
+    },
+    {
+        "keywords":[
+            "bancario",
+            "banco",
+            "bcp",
+            "tarjeta",
+            "bbva",
+            "interbank",
+            "deposito",
+            "depósito"
+        ],
+        "key": "STEP_5"
+    },
+    {
+        "keywords":[
+            "Plim",
+            "Yape",
+            "plim",
+            "yape",
+            "ya p",
+            "móvil",
+            "mobile",
+            "telefono",
+            "qr",
+            "QR"
+        ],
+        "key": "STEP_6"
+    },
+    {
+        "keywords":[
+            "github",
+            "proyecto",
+            "Proyecto",
+            "GitHub",
+            "Github"
+        ],
+        "key": "STEP_7"
+    },
+    {
+        "keywords":[
+            "asesor",
+            "asesoria",
+            "ayuda"
+        ],
+        "key": "STEP_8"
+    },
+    {
+        "keywords":[
+            ""
+        ],
+        "key": "STEP_9"
+    },
+    {
+        "keywords":[
+            "Finalizar",
+            "Fin",
+            "Adiós",
+            "Bye",
+            "Gracias",
+            "gracias",
+            "Chvre",
+            "chvre",
+            "queda",
+            "estaré al tanto",
+            "al pendiente",
+            "pendiente",
+            "atento",
+            "nos vemos"
+        ],
+        "key": "STEP_0"
+    },
+    {
+        "keywords":[
+            "Jr Parihuanca",
+            "792",
+            "Chorrillos",
+            "chorrillos",
+            "chorriyos",
+            "Chorriyos",
+            "primera",
+            "primero",
+            "local1",
+            "primer local"
+        ],
+        "key": "STEP_10"
+    },
+    {
+        "keywords":[
+            "Lima",
+            "491",
+            "lima",
+            "Miraflores",
+            "15074",
+            "segundo local",
+            "segundo",
+            "José Galvez",
+            "José",
+            "Galvez"
+        ],
+        "key": "STEP_11"
+    }
+]

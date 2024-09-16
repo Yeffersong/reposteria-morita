@@ -1,0 +1,99 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "Gracias por confiar en nuestro servicio.\n",
+            "Escriba el método (o número) que desee realizar.\n",
+            "1. Pago\n",
+            "2. Recojo\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_0":{
+        "replyMessage":[
+            "El sistema ha finalizado.\n",
+            "¡Vuelva pronto! 🍰\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_1":{
+        "replyMessage":[
+            "*Escriba* el método a realizar\n",
+            "Método de pago bancario:\n",
+            "Método de pago móvil:\n"
+        ]
+    },
+    "STEP_2":{
+        "replyMessage":[
+            "*Escriba* el servicio a realizar\n",
+            "► En tienda\n",
+            "► Delivery\n"
+        ]
+    },
+    "STEP_3":{
+        "replyMessage":[
+            "Escriba una palabra similar de la opción a realizar",
+            "1. *Chorrillos:* JR, PARIHUANCA, 792, Perú\n",
+            "2.  *Lima:* C. José Galvez 491, Miraflores 15074, Perú\n"
+        ]
+    },
+    "STEP_4":{
+        "replyMessage":[
+            "• Ingrese su dirección en formato GPS o imagen.\n"
+        ],
+        "media":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xataka.com%2Faplicaciones%2Fwhatsapp-ya-te-permite-compartir-la-ubicacion-en-tiempo-real-te-ensenamos-como-activarlo&psig=AOvVaw0QXOpDgFKoV6jFLnv0_J6k&ust=1671382479148000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDSwomPgfwCFQAAAAAdAAAAABAS"
+    },
+    "STEP_5":{
+        "replyMessage":[
+            "Desplegando información...\n",
+            "• 194 - 86756745 - 0 -08 : BCP\n",
+            "• 838 - 67235745 - 6 -19 : Interbank\n",
+            "• 011 - 68434678 - 3 -23 : BBVA\n",    
+            "Nota: No se olvide de enviar el comprobante de pago.\n"
+        ]
+    },
+    "STEP_6":{
+        "replyMessage":[
+            "Desplegando información...\n",
+            "• *Plim:* https://ibb.co/N2Pd3P6\n",
+            "• *Yape:* https://ibb.co/YTprRKW\n",
+            "*Nota:*No se olvide de enviar el comprobante de pago."
+        ]
+    },
+    "STEP_7":{
+        "replyMessage":[
+            "Proyecto en Github. \n",
+            "https://github.com/Yeffersonn/reposteria-morita.git\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_8":{
+        "replyMessage":[
+            "Información registrada\n",
+            "Gracias por formar parte de Morita."
+        ]
+    },
+    "STEP_9":{
+        "replyMessage":[
+            "En unos segundos... \n"
+        ],
+        "media":"asesor.mp3",
+        "trigger":null
+    },
+    "STEP_10":{
+        "replyMessage":[
+            "Ha elegido Chorrillos:* JR, PARIHUANCA, 792, Perú con éxito\n",
+            "Información registrada\n",
+            "Gracias por formar parte de Morita."
+        ]
+    },
+    "STEP_11":{
+        "replyMessage":[
+            "Ha elegido *Lima:* C. José Galvez 491, Miraflores 15074, Perú\n",
+            "Información registrada\n",
+            "Gracias por formar parte de Morita."
+        ]
+    }
+}
